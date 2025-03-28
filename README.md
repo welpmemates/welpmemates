@@ -1,4 +1,20 @@
 ## Hi there, I'm Uneet 👋
 
 🚀 About Me<br>
-I'm a passionate software developer and tech enthusiast, currently working on various projects spanning web development, mobile applications, and systems programming. I enjoy solving problems, learning new technologies, and building efficient and scalable solutions.
+About me here<br>
+<br>
+
+💻 Tech Stack<br>
+
+<br>
+
+🏆 Projects<br>
+
+<br>
+
+📫 Get in Touch<br>
+LinkedIn: <br>
+GitHub: <br>
+Email: <br>
+
+Feel free to check out my projects and contribute! 🚀<br>
