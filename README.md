@@ -1,9 +1,9 @@
 ## Hi there, I'm Uneet 👋
 
 # 💫 About Me:
-🔭 I’m currently a student at GLS University<br>
-🛠 I’m looking to collaborate on low-level system programming<br>
-🌱 I’m currently learning about the workings of compilers and interpreters
+🔭 I’m currently a student at GLS University.<br />
+🛠 I’m looking to collaborate on low-level system programming.<br />
+🌱 I’m currently learning about the workings of compilers and interpreters.
 
 
 ## 🚀 Socials:
