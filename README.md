@@ -1,10 +1,10 @@
 ### Hi there, I'm Uneet 👋
 
-#🚀 About Me<br>
+🚀 ##About Me<br>
 About me here<br>
 <br>
 
-##💻 Tech Stack<br>
+💻 #Tech Stack<br>
 
 <br>
 
