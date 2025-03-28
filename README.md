@@ -13,7 +13,7 @@ About me here<br>
 <br>
 
 **📫 Get in Touch<br>**
-LinkedIn: LinkedIn Page<br>
+LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/uneet-shah-5b4152292)<br>
 GitHub: GitHub Page<br>
 Email: My Email<br>
 
