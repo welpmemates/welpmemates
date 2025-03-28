@@ -17,4 +17,4 @@ LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/uneet-shah-5b4152292)<br>
 GitHub: [GitHub Page](https://github.com/welpmemates)<br>
 Email: [My Email](mailto:shahuneet06@gmail.com)<br>
 
-Feel free to check out my projects and contribute! 🚀<br>
+Feel free to check out my projects! 🚀<br>
