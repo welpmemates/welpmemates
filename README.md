@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently a student at GLS University.<br />
 🛠 I’m looking to collaborate on low-level system programming.<br />
-🌱 I’m currently learning about the workings of compilers and interpreters.
+🌱 I’m currently learning about the workings of compilers and interpreters.<br />
 
 
 ## 🚀 Socials:
@@ -17,6 +17,8 @@
 **🚦Pedestrian Crossing Timer** - An x86 assembly program that controls a pedestrian crossing timer with precise timing mechanisms.<br />
 **📱E-commerce app** - A React-native based E-commerce application for hackathon.<br />
 **🔍Aadhaar Verification App** – A React-based application integrating DigiLocker’s Meri Pehchaan API for Aadhaar authentication.<br />
+**🌐MCP LLM Context and Session Management** – A custom MCP(Model Context Protocol) for handling Session and Context for LLM.<br />
+**𖤍LLVM Obfuscation** - Obfuscation Tool chain for obfuscation of code using LLVM<br />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=welpmemates&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
